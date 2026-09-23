@@ -26,7 +26,7 @@ const cvData = {
       type: "list",
       items: [
         {
-          title: "Master of Computer Technology",
+          title: "Master of Computer Science",
           description:
             "Specialisation in security and vulnerabilities, Norwegian University of Science and Technology (NTNU)",
           meta: "2004 - 2009",

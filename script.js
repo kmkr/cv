@@ -134,8 +134,12 @@ const escapeHtml = (value) =>
   );
 
 const renderContact = ([label, value]) => {
-  const content = value.startsWith("https://")
-    ? `<a href="${escapeHtml(value)}">${escapeHtml(value)}</a>`
+  let href;
+  if (value.startsWith("https://")) href = value;
+  if (label === "Email") href = `mailto:${value}`;
+  if (label === "Phone") href = `tel:${value.replace(/[^\d+]/g, "")}`;
+  const content = href
+    ? `<a href="${escapeHtml(href)}">${escapeHtml(value)}</a>`
     : escapeHtml(value);
   return `<dt>${escapeHtml(label)}</dt><dd>${content}</dd>`;
 };

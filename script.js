@@ -47,7 +47,7 @@ const cvData = {
           title:
             "Senior Software Engineer, Engineering Manager and Principal Engineer at Otovo ASA",
           description:
-            "Joined Otovo as its 10th employee and helped scale the company from its early stage to operations in 13 countries and more than 500 employees. Over eight years, I built and launched product features across the platform, while also building and leading engineering teams through the company's growth.",
+            "Joined Otovo as its 10th employee and helped scale the company from its early stage to operations across 13 countries and more than 500 employees. Over eight years, I planned, built, and launched hundreds of product features across the platform, while also building and leading engineering teams through the company’s growth. I worked across the full stack throughout, collaborating closely with product managers and stakeholders, leading my team, supporting other engineering teams, and working together with UX designers to shape and build products.",
           meta: "2018 - 2026",
         },
         {

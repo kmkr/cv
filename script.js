@@ -15,7 +15,7 @@ const cvData = {
       title: "Key qualifications",
       type: "summary",
       paragraphs: [
-        "Software engineer, technical leader and engineering manager with 16 years of professional experience. I love building strong teams and high-quality products. I'm dedicated to helping people shine in their roles and thrive together.",
+        "Software engineer, technical leader and engineering manager with 17 years of professional experience. I love building strong teams and high-quality products. I'm dedicated to helping people shine in their roles and thrive together.",
         "I work across the full stack, building backend and frontend systems, user interfaces, and APIs. I primarily write TypeScript, JavaScript, and Python. I get a lot of help from AI agents, without letting them run wild nor determine my direction. Throughout most of my career, I've worked closely with product managers and UX designers, staying in regular contact with real users.",
         "I enjoy working both independently and as part of a team. I value clarity, and I'm thorough and responsible while also being warm and collaborative.",
       ],
@@ -91,7 +91,7 @@ const cvData = {
         {
           title: "TypeScript and JavaScript",
           description:
-            "16 years of experience with JavaScript and around five years with TypeScript, primarily using Node.js, Next.js, React, Angular, jQuery, and Backbone.js.",
+            "17 years of experience with JavaScript and around five years with TypeScript, primarily using Node.js, Next.js, React, Angular, jQuery, and Backbone.js.",
         },
         {
           title: "Python",

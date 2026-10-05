@@ -3,7 +3,7 @@ const cvData = {
   role: "Senior Software Engineer and Engineering Manager",
   photo: "242216.jpeg",
   contact: [
-    ["Address", "Erling Nilssens vei 18, 9300 Finnsnes"],
+    ["Address", "Finnsnes, Norway"],
     ["Date of birth", "1985-08-22"],
     ["Phone", "+47 97 15 26 92"],
     ["Email", "krismikael@proton.me"],
